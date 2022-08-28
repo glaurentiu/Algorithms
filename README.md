@@ -1,4 +1,2 @@
-# algorithms
-
-Algorithms examples made in JavaScript
+# Algorithms examples made in JavaScript
   - Insertion sort
